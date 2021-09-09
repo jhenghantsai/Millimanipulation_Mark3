@@ -1,0 +1,2 @@
+# Millimanipulation_Mark3
+‘Millimanipulation’ is a mm-scale scraping device for studying the removal behaviour of soft solid layers from solid substrates, firstly presented by the P4G group (Professor Ian Wilson) at the Department of Chemical Engineering and Biotechnology, University of Cambridge. The Mark III millimanipulation device was created by Magens et al. (2017) J. Food Eng. 197, 48–59. This project is for the device driver with automatic control and Graphical User Interface (GUI) using Python 3.7.
