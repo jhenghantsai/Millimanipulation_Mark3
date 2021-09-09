@@ -25,8 +25,8 @@ import os
 import sys
 import cv2
 
-##import nidaqmx
-##from nidaqmx.constants import TerminalConfiguration, VoltageUnits
+import nidaqmx
+from nidaqmx.constants import TerminalConfiguration, VoltageUnits
 
 
 # ------ global variables ------
