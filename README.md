@@ -18,3 +18,7 @@ Getting started
 pip3 install -r requirements.txt
 ```
 3. Download the software of package for 8SMC4 controller from [Standa's page](http://files.xisupport.com/Software.en.html#drivers).
+
+Project using this software
+----
+[Tsai, J., Fernandes, R., & Wilson, I. (2020). Measurements and modelling of the ‘millimanipulation’ device to study the removal of soft solid layers from solid substrates. Journal of Food Engineering, 285](https://doi.org/10.1016/j.jfoodeng.2020.110086) 
